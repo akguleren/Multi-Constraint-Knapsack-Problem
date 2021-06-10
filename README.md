@@ -2,7 +2,7 @@
 First give the input file's name
 Then enter the desired output file name
 
-Input format is given below. Max row size = 10.
+Input format is given below. Max row size = 10. (Review in raw format).
 
 2 28 // 2 knapsacks, 28 items
 1898 440 22507 270 14148 3100 4650 30800 615 4975
